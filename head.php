@@ -1,5 +1,5 @@
-<?php  echo "ซื้อ";?>
-<?php  echo "ชำระเงิน";?>
-<?php  echo "สถานะการจัดส่ง";?>
-<?php  echo "เคลม";?>
-<?php  echo "ติดต่อเรา";?>
+<?php  echo "buy";?>
+<?php  echo "payment";?>
+<?php  echo "shipping status";?>
+<?php  echo "claim";?>
+<?php  echo "contact us";?>

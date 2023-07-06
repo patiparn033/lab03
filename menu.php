@@ -1,2 +1,2 @@
-<?php  echo "shoes shop";?>
+<?php  echo "clothes shop";?>
 <?php  echo "TEL 0811111111";?>
